@@ -1,2 +1,2 @@
 # fatihkaratay
-Webfolio
+Webfolio or fatihkaratay.dev
